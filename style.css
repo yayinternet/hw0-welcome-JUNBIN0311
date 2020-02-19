@@ -1,3 +1,23 @@
-body {
-  font-family: monospace;
+h1
+{
+	color:gold;
+}
+h2
+{
+	color:#F9E5B2;
+}
+body
+{
+background-color:#1f1c1c;
+}
+p-dotted{
+	border: dotted;
+}
+.abc
+{
+	border: solid hotpink 3px;
+}
+.bcd
+{
+	background-color:yellow;
 }
